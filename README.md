@@ -1,29 +1,32 @@
-## Hi, I'm Dima
+# Dima Jalbout
 
-I'm a Paris-based business and finance professional with experience in consulting, financial analysis, audit and transformation. I'm interested in roles where strong business judgment meets useful technology and execution.
+Paris-based business and finance professional working across strategy, operations, financial services and digital transformation.
 
-My experience spans ESG and decarbonisation consulting, group audit, market analysis, credit analysis and client work in Lebanon, France and the UK. At Terra Instinct, I modelled investment cases for three decarbonisation technologies. At KPMG, I supported impairment analysis for 26 subsidiaries across three continents. I hold a Master's in Accounting, Control and Audit from Toulouse School of Management and an MBA from Sagesse University, where I graduated as valedictorian.
+My experience spans ESG and decarbonisation consulting, group audit, financial analysis and client-facing work in Lebanon, France and the UK. I turn complex financial and operational questions into clear analysis and practical next steps.
 
-I'm interested in Paris roles across financial services and consulting, alongside strategy and operations, fintech, AI and digital transformation, business analysis and startup operations.
+## Selected work
 
-### What I'm building
+- **[Energy investment calculator](https://dimael-jalbout-ux.github.io/energy-calculator.html)** — an illustrative browser-based model for payback, net present value and return, with visible assumptions.
+- **[Pulse AI support insights](https://dimael-jalbout-ux.github.io/pulse-ai.html)** — a product workflow prototype using fictional tickets, hand-authored labels and a human-review concept. It uses no live model or client data.
 
-- **Energy investment calculator:** a small, transparent scenario tool for payback, ROI and NPV.
-- **Pulse AI support insights:** a product prototype using fictional examples to explore human review in customer support workflows.
+Both are self-directed demonstrations. The energy inputs are illustrative; Pulse uses synthetic examples. Neither represents client results or production AI.
 
-These are personal demonstrations. The prototype uses synthetic data and does not represent production AI or client results.
+## Experience and education
 
-### Leadership and background
+- **Terra Instinct, London:** ESG and decarbonisation consulting, including investment modelling for solar, battery storage and heat-pump options.
+- **KPMG Lebanon:** group audit work across 26 subsidiaries on three continents, including IAS 36 impairment analysis.
+- **Education:** Master's in Accounting, Control and Audit at Toulouse School of Management; MBA valedictorian at Sagesse University; Bachelor's in Finance.
 
-MBA valedictorian · Elected student representative · Finance Club President · Volleyball team captain
+## Current focus
 
-At VivaTech 2026, I spent four days building connections across technology and innovation, including an exchange with easyJet’s France and Netherlands director at a private event for 30 companies.
+Strategy and operations · Business analysis · Financial services and fintech · AI and digital transformation · Consulting
 
-Finance and audit · ESG and decarbonisation · Market analysis · Client delivery · Business development · Cross-functional coordination
+## Leadership and languages
+
+MBA valedictorian · Finance Club President · Elected student representative · Volleyball team captain · Red Cross team lead · Scouts leader
 
 French · English · Arabic · Spanish (beginner)
 
-**Portfolio:** [dimael-jalbout-ux.github.io](https://dimael-jalbout-ux.github.io/)  
-**LinkedIn:** [linkedin.com/in/dima-jalbout](https://www.linkedin.com/in/dima-jalbout/)
+**[Portfolio](https://dimael-jalbout-ux.github.io/)** · **[LinkedIn](https://www.linkedin.com/in/dima-jalbout/)**
 
-I use GitHub to share practical business tools, make assumptions visible and keep learning by building.
+I use GitHub to make business questions, assumptions and practical demonstrations easy to inspect.
