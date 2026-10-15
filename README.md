@@ -13,12 +13,14 @@ I turn complex financial and operational questions into clear analysis and pract
 
 ## Selected work
 
-| Case | What it shows |
-| --- | --- |
-| **From climate obligations to investment choices** | Professional Terra Instinct work: climate and ESG review, risk assessment, and financial modelling for decarbonisation options. Client details and working files are omitted. |
-| **Group audit across 26 subsidiaries** | Professional KPMG experience: IAS 36 impairment analysis, discounted cash flows and coordination across three continents. Confidential information is omitted. |
-| [Energy investment calculator](https://dimael-jalbout-ux.github.io/energy-calculator.html) | Self-directed, illustrative business case tool for payback, net present value and return. Assumptions are visible and adjustable. |
-| [Pulse support insights](https://dimael-jalbout-ux.github.io/pulse-ai.html) | Self-directed workflow prototype using fictional tickets and fixed sample labels. No live AI model, client data or production claims. |
+- **Professional · Terra Instinct | From climate obligations to investment choices**  
+  ESG and climate review, risk assessment, and financial modelling for decarbonisation options. Client details and working files are omitted.
+- **Professional · KPMG | Group audit across 26 subsidiaries**  
+  IAS 36 impairment analysis, discounted cash flows and coordination across three continents. Confidential information is omitted.
+- **Personal demonstration · [Energy investment calculator](https://dimael-jalbout-ux.github.io/energy-calculator.html)**  
+  An illustrative business case tool for payback, net present value and return, with visible, adjustable assumptions.
+- **Personal prototype · [Pulse support insights](https://dimael-jalbout-ux.github.io/pulse-ai.html)**  
+  A workflow concept using fictional tickets and fixed sample labels. No live AI model, client data or production claims.
 
 The portfolio separates professional experience from personal demonstrations. Prototype inputs and illustrative data are labelled.
 
