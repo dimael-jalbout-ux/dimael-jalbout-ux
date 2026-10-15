@@ -15,8 +15,8 @@ I turn complex financial and operational questions into clear analysis and pract
 
 | Case | What it shows |
 | --- | --- |
-| [From climate obligations to investment choices](https://dimael-jalbout-ux.github.io/#work) | Professional Terra Instinct work: climate and ESG review, risk assessment, and financial modelling for decarbonisation options. Client details and working files are omitted. |
-| [Group audit across 26 subsidiaries](https://dimael-jalbout-ux.github.io/#work) | Professional KPMG experience: IAS 36 impairment analysis, discounted cash flows and coordination across three continents. Confidential information is omitted. |
+| **From climate obligations to investment choices** | Professional Terra Instinct work: climate and ESG review, risk assessment, and financial modelling for decarbonisation options. Client details and working files are omitted. |
+| **Group audit across 26 subsidiaries** | Professional KPMG experience: IAS 36 impairment analysis, discounted cash flows and coordination across three continents. Confidential information is omitted. |
 | [Energy investment calculator](https://dimael-jalbout-ux.github.io/energy-calculator.html) | Self-directed, illustrative business case tool for payback, net present value and return. Assumptions are visible and adjustable. |
 | [Pulse support insights](https://dimael-jalbout-ux.github.io/pulse-ai.html) | Self-directed workflow prototype using fictional tickets and fixed sample labels. No live AI model, client data or production claims. |
 
